@@ -1,5 +1,3 @@
-# hello-world
-hi guys
-this is my test
-thats great mohanad
+yes you have test it
+git is smart 
 this is my first test on git
